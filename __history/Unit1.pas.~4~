@@ -26,8 +26,7 @@ implementation
 
 procedure TForm1.±£´æClick(Sender: TObject);
 begin
-  ShowMessage('ÄãºÃ');
-  ShowMessage('ces‡NÉª‡NÉª');
+  ShowMessage('ÄãºÃ');   ShowMessage('ces');
 end;
 
 end.
